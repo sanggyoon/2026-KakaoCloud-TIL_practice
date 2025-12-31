@@ -1,0 +1,37 @@
+# 운영체제
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# IDE / 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 환경 변수
+.env
+.env.local
+.env.*.local
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.temp
+.cache/
+
+# 의존성 디렉토리
+node_modules/
+vendor/
+
+# 빌드 결과물
+dist/
+build/
+*.exe
+*.out
+*.app
